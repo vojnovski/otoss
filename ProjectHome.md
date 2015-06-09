@@ -1,0 +1,1 @@
+OTOSS will provide a reference implementation for the OTA Specifications (www.opentravel.org) based on Eclipse SOPERA SOA Framework. Furthermore it helps in extending the framework by providing best practises on how to implement and extend the reference implementation.
